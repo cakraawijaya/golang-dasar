@@ -1,0 +1,3 @@
+module method-struct
+
+go 1.26.2
